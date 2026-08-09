@@ -78,4 +78,4 @@ Display response
 ![Chatbot Screenshot](./assets/chatbot%20screenshot.png)
 
 ## Demo Video
-https://drive.google.com/file/d/1GCTdGkcl35_dU3FpkwTwu3y9RrxJ--mf/view?usp=sharing
+[Click here to watch the demo video](https://drive.google.com/file/d/1GCTdGkc135_dU3FpkwTwu3y9RrxJ--mf/view?usp=sharing)
