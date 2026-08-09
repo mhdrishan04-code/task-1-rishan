@@ -42,6 +42,12 @@ The chatbot accepts user input, processes the text, identifies keywords or phras
 - Git & GitHub
 
 ---
+## Screenshots
+![Chatbot Screenshot](./assets/chatbot%20screenshot.png)
+
+## Demo Video
+[Click here to watch the demo video](https://drive.google.com/file/d/1GCTdGkc135_dU3FpkwTwu3y9RrxJ--mf/view?usp=sharing)
+
 
 ## Project Structure
 
@@ -74,8 +80,3 @@ Generate response
   ↓
 Display response
 
-## Screenshots
-![Chatbot Screenshot](./assets/chatbot%20screenshot.png)
-
-## Demo Video
-[Click here to watch the demo video](https://drive.google.com/file/d/1GCTdGkc135_dU3FpkwTwu3y9RrxJ--mf/view?usp=sharing)
