@@ -1,4 +1,4 @@
-# Chatbot Project
+# Chatbot Project = NEOCHAT
 
 A simple Rule-Based AI Chatbot developed using Python. The chatbot interacts with users through the terminal and provides predefined responses to common questions and basic Artificial Intelligence, Machine Learning, and Deep Learning concepts.
 
