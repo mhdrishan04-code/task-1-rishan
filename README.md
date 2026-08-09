@@ -23,9 +23,7 @@ The chatbot accepts user input, processes the text, identifies keywords or phras
 - 🕸️ Neural Network explanation
 - 📊 Supervised Learning
 - 📊 Unsupervised Learning
-- 🎯 Reinforcement Learning
-- ⚠️ Overfitting explanation
-- 🐍 Python AI/ML library information
+- 🎯 Reinforcement Learning
 - 💬 Basic conversation
 - ❓ Help command
 - 👋 Exit command
